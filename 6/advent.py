@@ -12,17 +12,6 @@ def process(filename):
 
 	return nums
 
-
-# def get_ancestors(fish_start, num_days):
-
-# 	days_left = num_days - fish_start
-
-# 	full_cycles = days_left // 7
-
-# 	fish_end = days_left % 7
-
-# 	return 1 + full_cycles
-
 def setup_log(nums):
 	log = Counter(nums)
 
