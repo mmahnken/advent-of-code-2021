@@ -1,0 +1,56 @@
+path 0.0 going right PRE
+path 0.0,1.0 going right PRE
+path 0.0,1.0,2.0 going down PRE
+path 0.0,1.0,2.0,2.1 going down PRE
+path 0.0,1.0,2.0,2.1,2.2 RETURNING last square 4
+path 0.0,1.0,2.0,2.1 12 POST
+path 0.0,1.0,2.0,2.1 RETURNING risk_down 12
+path 0.0,1.0,2.0 18 POST
+path 0.0,1.0,2.0 RETURNING risk_down 18
+path 0.0,1.0 23 POST
+path 0.0,1.0 going down PRE
+path 0.0,1.0,1.1 going right PRE
+path 0.0,1.0,1.1,2.1 going down PRE
+path 0.0,1.0,1.1,2.1,2.2 RETURNING last square 4
+path 0.0,1.0,1.1,2.1 12 POST
+path 0.0,1.0,1.1,2.1 RETURNING risk_down 12
+path 0.0,1.0,1.1 14 POST
+path 0.0,1.0,1.1 going down PRE
+path 0.0,1.0,1.1,1.2 going right PRE
+path 0.0,1.0,1.1,1.2,2.2 RETURNING last square 4
+path 0.0,1.0,1.1,1.2 13 POST
+path 0.0,1.0,1.1,1.2 RETURNING risk_right 13
+path 0.0,1.0,1.1 15 POST
+path 0.0,1.0,1.1 RETURNING best choice 14
+path 0.0,1.0 19 POST
+path 0.0,1.0 RETURNING best choice 19
+path 0.0 20 POST
+path 0.0 going down PRE
+path 0.0,0.1 going right PRE
+path 0.0,0.1,1.1 going right PRE
+path 0.0,0.1,1.1,2.1 going down PRE
+path 0.0,0.1,1.1,2.1,2.2 RETURNING last square 4
+path 0.0,0.1,1.1,2.1 12 POST
+path 0.0,0.1,1.1,2.1 RETURNING risk_down 12
+path 0.0,0.1,1.1 14 POST
+path 0.0,0.1,1.1 going down PRE
+path 0.0,0.1,1.1,1.2 going right PRE
+path 0.0,0.1,1.1,1.2,2.2 RETURNING last square 4
+path 0.0,0.1,1.1,1.2 13 POST
+path 0.0,0.1,1.1,1.2 RETURNING risk_right 13
+path 0.0,0.1,1.1 15 POST
+path 0.0,0.1,1.1 RETURNING best choice 14
+path 0.0,0.1 17 POST
+path 0.0,0.1 going down PRE
+path 0.0,0.1,0.2 going right PRE
+path 0.0,0.1,0.2,1.2 going right PRE
+path 0.0,0.1,0.2,1.2,2.2 RETURNING last square 4
+path 0.0,0.1,0.2,1.2 13 POST
+path 0.0,0.1,0.2,1.2 RETURNING risk_right 13
+path 0.0,0.1,0.2 20 POST
+path 0.0,0.1,0.2 RETURNING risk_right 20
+path 0.0,0.1 23 POST
+path 0.0,0.1 RETURNING best choice 17
+path 0.0 18 POST
+path 0.0 RETURNING best choice 18
+17
